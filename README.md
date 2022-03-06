@@ -1,1 +1,1 @@
-Contains weekly practical links
+Blank
