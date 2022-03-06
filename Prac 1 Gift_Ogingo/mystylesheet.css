@@ -1,0 +1,42 @@
+body {
+ text-align:center;
+ font-family: Arial;
+ height: 100%;
+ color: purple;
+ background-color: #FFCCFF}
+ 
+h1 {
+ font-family:Arial;}
+	
+.navbar a {
+ padding:1em ;
+ float:right}
+ 
+ a:link {
+ color: blue }
+ a:visited {
+ color: red }
+ a:hover {
+ color: #FFF; background-color: #888888;}
+ 
+.filters {
+text-align:center;
+padding:2em;}
+ 
+
+
+ 
+#footer {
+
+left: 0;
+right: 0;
+bottom:0;
+text-align: center;
+font-size: 0.8em;
+background-color: #2c2e38;
+color: #d7ceb2;
+font:Arial;
+position: fixed;
+ }
+#footer a { color: #00FF66 ; }
+ 
