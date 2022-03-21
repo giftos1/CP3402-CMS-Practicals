@@ -8,6 +8,7 @@ Learnt that there are two types of websites, static and dynamic
 How to install extensions in Joomla
 How to install my joomla website and use it on a local server. (XAMPP)
 
+
 Resources/Links
 Watched a few YouTube videos.
 1.	https://youtu.be/DIAaW1OOGww - Move Your Website on Cloud | Install XAMPP on EC2 instance | Host your website on EC2 AWS
@@ -18,10 +19,15 @@ Watched a few YouTube videos.
 Estimated Hours
 15 hours. 
 
+
 Content Insights
-One of the best features I thought Joomla had been the - site modules section- which had a summary of all you had done. This made it easy to access whichever work you wanted to. 
-The save as copy feature as well came in handy especially in smart slider and home section as it allowed one to easily form an empty document/slider and modify it.
-The hardest section that took a long time to know was transferring the website from my local server (XAMPP) to Amazon web services cloud. Realised I had to use Ec2 instance which was designed for dynamic websites.
+One of the best features I thought Joomla had been the - site modules section- which had a summary of all you had done.
+This made it easy to access whichever work you wanted to. 
+The save as copy feature as well came in handy especially in smart slider and home section as it allowed one to easily
+form an empty document/slider and modify it.
+The hardest section that took a long time to know was transferring the website from my local server (XAMPP) to Amazon 
+web services cloud. Realised I had to use Ec2 instance which was designed for dynamic websites.
+
 
 Career/Employability/Learning Insights
 I preferred using YouTube videos which had full tutorials on how to use joomla as I had never used it. 
