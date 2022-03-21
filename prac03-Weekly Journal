@@ -1,0 +1,32 @@
+Week
+Week 4 Practical 3
+
+Learning Activities
+I learnt how to ask better open-ended questions when trying to know a particular person. (In practical 3, week 4)
+Learnt how to create websites both locally and online through XAMPP and Amazon Web Services respectively.
+Learnt how the basic functionality of WordPress in website building.
+Learnt how to import and export databases.
+
+Resources/Links
+A couple of YouTube videos.
+https://youtu.be/MLXeiMcXMV8 (Move WordPress from local host to live server(cPanel))
+https://youtu.be/VyeWgHgcECE (WordPress Installation using XAMPP)
+https://youtu.be/YqMU7ZkL-8w (Install WordPress on Ec2)
+
+
+Estimated Hours
+25 hours
+
+
+Content Insights
+I had a hard time deploying my locally formed WordPress website in Amazon Web Services. 
+I therefore created a new WordPress website in AWS and imported my WordPress file which I had exported from my local server (XAMPP). 
+(All in one WP migration plugin made this possible)
+Creation of a new database and importing my WordPress database also came in handy when I was trying to deploy my website from my local
+server even though I did not do it this in the end.
+
+
+Career/Employability/Learning Insights
+The one-minute interviews helped me know how to ask better questions when trying to know people. 
+I witnessed also how brainstorming is helpful in problem solving in that we were able to come up
+with the best solution on how each one of us will interview each other in an orderly manner in one minute.
