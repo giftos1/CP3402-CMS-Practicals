@@ -1,12 +1,13 @@
 Week 
 Week 1
 
-Learning Activities
-Adding links
-Adding images
-Using CSS to edit text fonts, background colours, positioning texts and different links features such as hover and visited features.
-How to open and close headings, titles and paragraphs
-How to add and edit the footer.
+# Learning Activities
+
+- Adding links
+- Adding images
+- Using CSS to edit text fonts, background colours, positioning texts and different links features such as hover and visited features.
+- How to open and close headings, titles and paragraphs
+- How to add and edit the footer.
 
 
 Resources/Links
